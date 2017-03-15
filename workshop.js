@@ -1145,4 +1145,6 @@ Workshop.getQueryParams = function workshop_getQueryParams() {
 
 	return res;
 };
+
+return Workshop;
 })();
